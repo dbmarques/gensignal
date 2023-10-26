@@ -1,4 +1,4 @@
-Marques D. B. A time series signal generator with specified frequencies, amplitudes, phase differences, sampling rate, duration, and time delay in MATLAB. 2023.
+Marques D. B. A time series signal generator with specified frequencies, amplitudes, phase differences, sampling rate, duration, and time delay in MATLAB. 2018.
 
 Useful to test the effect of a variety of parameters in a diversity of spectral estimates.
 
